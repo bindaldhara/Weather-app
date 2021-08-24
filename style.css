@@ -1,0 +1,27 @@
+html {
+    font-family:bold;
+    text-align: center;
+  }
+  
+  body {
+    margin: 0 auto;
+    background:url('weather.jpg');
+    background-repeat:no-repeat;
+    background-size:100%;
+    background-position: center;
+    background-attachment:fixed;
+  }
+  #temperature{
+      margin-bottom:33px;
+      margin-right:33px;
+  
+  }
+  .container{
+      margin-top:200px;
+      margin-left:550px;
+      margin-right:550px;
+      border:5px solid ;
+      background-color: coral;
+      width:400px;
+  }
+
